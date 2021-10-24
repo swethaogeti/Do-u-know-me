@@ -1,5 +1,8 @@
 # Do-u-know-me
-Do u Know me is a CLI app made by using nodejs
+
+Do u Know me is a CLI Quiz app made by using nodejs
 npm Libraries-
-readline-sync
-chalk
+
+1.readline-sync
+
+2.chalk
